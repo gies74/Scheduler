@@ -1,0 +1,40 @@
+<SCHEDULE_SPECS>
+  <RESOURCES>
+    <RESOURCE name="Gies" type="person" />
+    <RESOURCE name="Det" type="person" />
+  </RESOURCES>
+  <MEETINGS>
+    <MEETING topic="M1">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Gies" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="M2">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Gies" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="M3">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Det" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="M4">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Det" level="desired" />
+      </RESOURCES>
+    </MEETING>
+  </MEETINGS>
+  <SETTINGS>
+    <SETTING name="noParSess" value="2" />
+    <SETTING name="noSessBlocks" value="2" />
+  </SETTINGS>
+</SCHEDULE_SPECS>

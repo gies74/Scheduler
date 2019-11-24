@@ -1,0 +1,28 @@
+<SCHEDULE_SPECS>
+  <RESOURCES>
+    <RESOURCE name="a" type="person" />
+    <RESOURCE name="b" type="person" />
+    <RESOURCE name="c" type="person" />
+    <RESOURCE name="d" type="person" />
+    <RESOURCE name="e" type="person" />
+    <RESOURCE name="f" type="person" />
+    <RESOURCE name="g" type="person" />
+    <RESOURCE name="h" type="person" />
+    <RESOURCE name="i" type="person" />
+  </RESOURCES>
+  <MEETINGS>
+    <MEETING topic="4">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="e" level="required" />
+        <RESOURCE name="f" level="required" />
+        <RESOURCE name="a" level="desired" />
+      </RESOURCES>
+    </MEETING>
+  </MEETINGS>
+  <SETTINGS>
+    <SETTING name="noParSess" value="3" />
+    <SETTING name="noSessBlocks" value="3" />
+  </SETTINGS>
+</SCHEDULE_SPECS>

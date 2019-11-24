@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduler", "Scheduler\Scheduler.csproj", "{BE2D1E6F-22E4-4662-87C9-9BC7AAAF1739}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Scheduler_Installer", "Scheduler_Installer\Scheduler_Installer.vdproj", "{548E9B8F-F6B4-414E-ADF6-9B9E4C47F5BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2D1E6F-22E4-4662-87C9-9BC7AAAF1739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2D1E6F-22E4-4662-87C9-9BC7AAAF1739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2D1E6F-22E4-4662-87C9-9BC7AAAF1739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2D1E6F-22E4-4662-87C9-9BC7AAAF1739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548E9B8F-F6B4-414E-ADF6-9B9E4C47F5BD}.Debug|Any CPU.ActiveCfg = Debug
+		{548E9B8F-F6B4-414E-ADF6-9B9E4C47F5BD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

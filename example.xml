@@ -1,0 +1,252 @@
+<SCHEDULE_SPECS>
+  <RESOURCES>
+    <RESOURCE name="Tom DeBurgh" type="person" />
+    <RESOURCE name="Lisa Timberland" type="person" />
+    <RESOURCE name="Johan van Beerschot" type="person" />
+    <RESOURCE name="Natalia Smirnova" type="person" />
+    <RESOURCE name="Tim Wiese" type="person" />
+    <RESOURCE name="Dieter Weidemann" type="person" />
+    <RESOURCE name="Martin Cooke" type="person" />
+    <RESOURCE name="Koizuki Niroshima" type="person" />
+    <RESOURCE name="Joao Pinto" type="person" />
+    <RESOURCE name="Megan Wheeling" type="person" />
+    <RESOURCE name="Odette Scharenborg" type="person" />
+    <RESOURCE name="Barbara Schuppler" type="person" />
+    <RESOURCE name="Louis ten Bosch" type="person" />
+    <RESOURCE name="Mirjam Ernestus" type="person" />
+    <RESOURCE name="Sarah Hawkins" type="person" />
+    <RESOURCE name="Luisa Sanchez-Vicario" type="person" />
+    <RESOURCE name="Giovanni di Luca" type="person" />
+    <RESOURCE name="Jan Polatzic" type="person" />
+    <RESOURCE name="Jean-Francois Bernot" type="person" />
+    <RESOURCE name="Henriette Duchesne" type="person" />
+    <RESOURCE name="Pia Dijkstra" type="person" />
+    <RESOURCE name="Nathan Smith" type="person" />
+  </RESOURCES>
+  <MEETINGS>
+    <MEETING topic="Computational Modeling">
+      <DESCRIPTION>discusses the (dis)advantages of various theories</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Joao Pinto" level="required" />
+        <RESOURCE name="Pia Dijkstra" level="required" />
+        <RESOURCE name="Nathan Smith" level="required" />
+        <RESOURCE name="Tom DeBurgh" level="desired" />
+        <RESOURCE name="Lisa Timberland" level="desired" />
+        <RESOURCE name="Koizuki Niroshima" level="desired" />
+        <RESOURCE name="Odette Scharenborg" level="desired" />
+        <RESOURCE name="Mirjam Ernestus" level="desired" />
+        <RESOURCE name="Luisa Sanchez-Vicario" level="desired" />
+        <RESOURCE name="Jean-Francois Bernot" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Duration">
+      <DESCRIPTION>elaborate on methods how to compute duration of speech segments</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Lisa Timberland" level="required" />
+        <RESOURCE name="Johan van Beerschot" level="required" />
+        <RESOURCE name="Koizuki Niroshima" level="required" />
+        <RESOURCE name="Joao Pinto" level="required" />
+        <RESOURCE name="Giovanni di Luca" level="required" />
+        <RESOURCE name="Jan Polatzic" level="required" />
+        <RESOURCE name="Henriette Duchesne" level="required" />
+        <RESOURCE name="Dieter Weidemann" level="desired" />
+        <RESOURCE name="Martin Cooke" level="desired" />
+        <RESOURCE name="Mirjam Ernestus" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Follow-up S2S">
+      <DESCRIPTION>project board meeting</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Tom DeBurgh" level="required" />
+        <RESOURCE name="Johan van Beerschot" level="required" />
+        <RESOURCE name="Tim Wiese" level="required" />
+        <RESOURCE name="Henriette Duchesne" level="required" />
+        <RESOURCE name="Nathan Smith" level="required" />
+        <RESOURCE name="Dieter Weidemann" level="desired" />
+        <RESOURCE name="Koizuki Niroshima" level="desired" />
+        <RESOURCE name="Megan Wheeling" level="desired" />
+        <RESOURCE name="Barbara Schuppler" level="desired" />
+        <RESOURCE name="Sarah Hawkins" level="desired" />
+        <RESOURCE name="Giovanni di Luca" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Morphemes">
+      <DESCRIPTION>several topics related to morphology</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Tim Wiese" level="required" />
+        <RESOURCE name="Dieter Weidemann" level="required" />
+        <RESOURCE name="Odette Scharenborg" level="required" />
+        <RESOURCE name="Louis ten Bosch" level="required" />
+        <RESOURCE name="Jan Polatzic" level="required" />
+        <RESOURCE name="Henriette Duchesne" level="required" />
+        <RESOURCE name="Nathan Smith" level="required" />
+        <RESOURCE name="Tom DeBurgh" level="desired" />
+        <RESOURCE name="Sarah Hawkins" level="desired" />
+        <RESOURCE name="Pia Dijkstra" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Ac. scene analysis">
+      <DESCRIPTION>no details available</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Lisa Timberland" level="required" />
+        <RESOURCE name="Joao Pinto" level="required" />
+        <RESOURCE name="Jan Polatzic" level="required" />
+        <RESOURCE name="Johan van Beerschot" level="desired" />
+        <RESOURCE name="Natalia Smirnova" level="desired" />
+        <RESOURCE name="Dieter Weidemann" level="desired" />
+        <RESOURCE name="Odette Scharenborg" level="desired" />
+        <RESOURCE name="Mirjam Ernestus" level="desired" />
+        <RESOURCE name="Henriette Duchesne" level="desired" />
+        <RESOURCE name="Nathan Smith" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Confidence measures">
+      <DESCRIPTION>Log-level likelihood, discussion of Thesis McDermott</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Barbara Schuppler" level="required" />
+        <RESOURCE name="Giovanni di Luca" level="required" />
+        <RESOURCE name="Jan Polatzic" level="required" />
+        <RESOURCE name="Joao Pinto" level="required" />
+        <RESOURCE name="Pia Dijkstra" level="required" />
+        <RESOURCE name="Tom DeBurgh" level="required" />
+        <RESOURCE name="Jean-Francois Bernot" level="desired" />
+        <RESOURCE name="Johan van Beerschot" level="desired" />
+        <RESOURCE name="Lisa Timberland" level="desired" />
+        <RESOURCE name="Louis ten Bosch" level="desired" />
+        <RESOURCE name="Sarah Hawkins" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Free ASR engines">
+      <DESCRIPTION>knowledge exchange on this topic</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Dieter Weidemann" level="required" />
+        <RESOURCE name="Koizuki Niroshima" level="required" />
+        <RESOURCE name="Jean-Francois Bernot" level="desired" />
+        <RESOURCE name="Megan Wheeling" level="desired" />
+        <RESOURCE name="Natalia Smirnova" level="desired" />
+        <RESOURCE name="Nathan Smith" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Fellow exchange market">
+      <DESCRIPTION>For anyone offering / seeking places</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Natalia Smirnova" level="required" />
+        <RESOURCE name="Dieter Weidemann" level="required" />
+        <RESOURCE name="Koizuki Niroshima" level="required" />
+        <RESOURCE name="Mirjam Ernestus" level="required" />
+        <RESOURCE name="Giovanni di Luca" level="required" />
+        <RESOURCE name="Jan Polatzic" level="required" />
+        <RESOURCE name="Johan van Beerschot" level="desired" />
+        <RESOURCE name="Martin Cooke" level="desired" />
+        <RESOURCE name="Joao Pinto" level="desired" />
+        <RESOURCE name="Megan Wheeling" level="desired" />
+        <RESOURCE name="Jean-Francois Bernot" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Next workshop">
+      <DESCRIPTION>discusses the general program of our next meeting in Sevilla</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Giovanni di Luca" level="required" />
+        <RESOURCE name="Jean-Francois Bernot" level="required" />
+        <RESOURCE name="Lisa Timberland" level="required" />
+        <RESOURCE name="Megan Wheeling" level="required" />
+        <RESOURCE name="Tom DeBurgh" level="required" />
+        <RESOURCE name="Barbara Schuppler" level="desired" />
+        <RESOURCE name="Joao Pinto" level="desired" />
+        <RESOURCE name="Koizuki Niroshima" level="desired" />
+        <RESOURCE name="Martin Cooke" level="desired" />
+        <RESOURCE name="Pia Dijkstra" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="L2 Aquisition">
+      <DESCRIPTION>General L2 topics</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Lisa Timberland" level="required" />
+        <RESOURCE name="Dieter Weidemann" level="required" />
+        <RESOURCE name="Luisa Sanchez-Vicario" level="required" />
+        <RESOURCE name="Natalia Smirnova" level="desired" />
+        <RESOURCE name="Koizuki Niroshima" level="desired" />
+        <RESOURCE name="Joao Pinto" level="desired" />
+        <RESOURCE name="Mirjam Ernestus" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Conducting experiments">
+      <DESCRIPTION>little workshop by Prague university</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Lisa Timberland" level="required" />
+        <RESOURCE name="Joao Pinto" level="required" />
+        <RESOURCE name="Jan Polatzic" level="required" />
+        <RESOURCE name="Tom DeBurgh" level="desired" />
+        <RESOURCE name="Johan van Beerschot" level="desired" />
+        <RESOURCE name="Natalia Smirnova" level="desired" />
+        <RESOURCE name="Jean-Francois Bernot" level="desired" />
+        <RESOURCE name="Pia Dijkstra" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Angelica Braun: Forensic Phonetics">
+      <DESCRIPTION>lecture</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Mirjam Ernestus" level="required" />
+        <RESOURCE name="Pia Dijkstra" level="required" />
+        <RESOURCE name="Johan van Beerschot" level="desired" />
+        <RESOURCE name="Koizuki Niroshima" level="desired" />
+        <RESOURCE name="Jean-Francois Bernot" level="desired" />
+        <RESOURCE name="Henriette Duchesne" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Phonology">
+      <DESCRIPTION>overview talk by Matt Judea</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Martin Cooke" level="required" />
+        <RESOURCE name="Giovanni di Luca" level="required" />
+        <RESOURCE name="Lisa Timberland" level="desired" />
+        <RESOURCE name="Tim Wiese" level="desired" />
+        <RESOURCE name="Megan Wheeling" level="desired" />
+        <RESOURCE name="Barbara Schuppler" level="desired" />
+        <RESOURCE name="Mirjam Ernestus" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Sign language">
+      <DESCRIPTION>Introductory lecture on sign language</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Henriette Duchesne" level="required" />
+        <RESOURCE name="Pia Dijkstra" level="required" />
+        <RESOURCE name="Nathan Smith" level="required" />
+        <RESOURCE name="Tom DeBurgh" level="desired" />
+        <RESOURCE name="Odette Scharenborg" level="desired" />
+        <RESOURCE name="Giovanni di Luca" level="desired" />
+        <RESOURCE name="Jean-Francois Bernot" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Evaluation of S2S">
+      <DESCRIPTION>Mid-term review</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Tom DeBurgh" level="required" />
+        <RESOURCE name="Natalia Smirnova" level="required" />
+        <RESOURCE name="Dieter Weidemann" level="required" />
+        <RESOURCE name="Jean-Francois Bernot" level="required" />
+        <RESOURCE name="Martin Cooke" level="desired" />
+        <RESOURCE name="Joao Pinto" level="desired" />
+        <RESOURCE name="Odette Scharenborg" level="desired" />
+        <RESOURCE name="Giovanni di Luca" level="desired" />
+        <RESOURCE name="Pia Dijkstra" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="Budget Q3">
+      <DESCRIPTION>discusses how to hand in declarations of expenses made in Q3</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Tom DeBurgh" level="required" />
+        <RESOURCE name="Odette Scharenborg" level="required" />
+        <RESOURCE name="Nathan Smith" level="required" />
+        <RESOURCE name="Dieter Weidemann" level="desired" />
+        <RESOURCE name="Megan Wheeling" level="desired" />
+        <RESOURCE name="Luisa Sanchez-Vicario" level="desired" />
+        <RESOURCE name="Henriette Duchesne" level="desired" />
+      </RESOURCES>
+    </MEETING>
+  </MEETINGS>
+  <SETTINGS>
+    <SETTING name="noParSess" value="2" />
+    <SETTING name="noSessBlocks" value="8" />
+  </SETTINGS>
+</SCHEDULE_SPECS>

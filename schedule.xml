@@ -1,0 +1,21 @@
+<SCHEDULE_SPECS>
+  <RESOURCES>
+    <RESOURCE name="Det" type="person" />
+    <RESOURCE name="Gies" type="person" />
+    <RESOURCE name="Toshiba Beamer" type="device" />
+  </RESOURCES>
+  <MEETINGS>
+    <MEETING topic="ASR">
+      <DESCRIPTION>Automatic Speech Recognition en een heleboel andere onzin die dan besproken zal worden.</DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="Det" level="required" />
+        <RESOURCE name="Gies" level="required" />
+        <RESOURCE name="Toshiba Beamer" level="required" />
+      </RESOURCES>
+    </MEETING>
+  </MEETINGS>
+  <SETTINGS>
+    <SETTING name="noParSess" value="3" />
+    <SETTING name="noSessBlocks" value="4" />
+  </SETTINGS>
+</SCHEDULE_SPECS>

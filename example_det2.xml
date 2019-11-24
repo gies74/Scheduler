@@ -1,0 +1,273 @@
+<SCHEDULE_SPECS>
+  <RESOURCES>
+    <RESOURCE name="a" type="person" />
+    <RESOURCE name="b" type="person" />
+    <RESOURCE name="c" type="person" />
+    <RESOURCE name="d" type="person" />
+    <RESOURCE name="e" type="person" />
+    <RESOURCE name="f" type="person" />
+    <RESOURCE name="g" type="person" />
+    <RESOURCE name="h" type="person" />
+    <RESOURCE name="i" type="person" />
+    <RESOURCE name="j" type="person" />
+    <RESOURCE name="k" type="person" />
+    <RESOURCE name="l" type="person" />
+    <RESOURCE name="m" type="person" />
+    <RESOURCE name="n" type="person" />
+    <RESOURCE name="o" type="person" />
+    <RESOURCE name="p" type="person" />
+    <RESOURCE name="q" type="person" />
+    <RESOURCE name="r" type="person" />
+    <RESOURCE name="s" type="person" />
+    <RESOURCE name="t" type="person" />
+    <RESOURCE name="u" type="person" />
+    <RESOURCE name="v" type="person" />
+  </RESOURCES>
+  <MEETINGS>
+    <MEETING topic="1">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="i" level="required" />
+        <RESOURCE name="u" level="required" />
+        <RESOURCE name="v" level="required" />
+        <RESOURCE name="a" level="desired" />
+        <RESOURCE name="b" level="desired" />
+        <RESOURCE name="h" level="desired" />
+        <RESOURCE name="k" level="desired" />
+        <RESOURCE name="n" level="desired" />
+        <RESOURCE name="p" level="desired" />
+        <RESOURCE name="s" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="2">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="b" level="required" />
+        <RESOURCE name="c" level="required" />
+        <RESOURCE name="h" level="required" />
+        <RESOURCE name="i" level="required" />
+        <RESOURCE name="q" level="required" />
+        <RESOURCE name="r" level="required" />
+        <RESOURCE name="t" level="required" />
+        <RESOURCE name="f" level="desired" />
+        <RESOURCE name="g" level="desired" />
+        <RESOURCE name="n" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="3">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="a" level="required" />
+        <RESOURCE name="c" level="required" />
+        <RESOURCE name="e" level="required" />
+        <RESOURCE name="t" level="required" />
+        <RESOURCE name="v" level="required" />
+        <RESOURCE name="f" level="desired" />
+        <RESOURCE name="h" level="desired" />
+        <RESOURCE name="j" level="desired" />
+        <RESOURCE name="l" level="desired" />
+        <RESOURCE name="o" level="desired" />
+        <RESOURCE name="q" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="4">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="e" level="required" />
+        <RESOURCE name="f" level="required" />
+        <RESOURCE name="k" level="required" />
+        <RESOURCE name="m" level="required" />
+        <RESOURCE name="r" level="required" />
+        <RESOURCE name="t" level="required" />
+        <RESOURCE name="v" level="required" />
+        <RESOURCE name="a" level="desired" />
+        <RESOURCE name="o" level="desired" />
+        <RESOURCE name="u" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="5">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="b" level="required" />
+        <RESOURCE name="i" level="required" />
+        <RESOURCE name="r" level="required" />
+        <RESOURCE name="c" level="desired" />
+        <RESOURCE name="d" level="desired" />
+        <RESOURCE name="f" level="desired" />
+        <RESOURCE name="k" level="desired" />
+        <RESOURCE name="n" level="desired" />
+        <RESOURCE name="t" level="desired" />
+        <RESOURCE name="v" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="6">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="a" level="required" />
+        <RESOURCE name="i" level="required" />
+        <RESOURCE name="l" level="required" />
+        <RESOURCE name="q" level="required" />
+        <RESOURCE name="r" level="required" />
+        <RESOURCE name="u" level="required" />
+        <RESOURCE name="b" level="desired" />
+        <RESOURCE name="c" level="desired" />
+        <RESOURCE name="m" level="desired" />
+        <RESOURCE name="o" level="desired" />
+        <RESOURCE name="s" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="7">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="c" level="required" />
+        <RESOURCE name="e" level="required" />
+        <RESOURCE name="h" level="required" />
+        <RESOURCE name="k" level="required" />
+        <RESOURCE name="p" level="required" />
+        <RESOURCE name="r" level="required" />
+        <RESOURCE name="a" level="desired" />
+        <RESOURCE name="b" level="desired" />
+        <RESOURCE name="d" level="desired" />
+        <RESOURCE name="m" level="desired" />
+        <RESOURCE name="s" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="8">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="d" level="required" />
+        <RESOURCE name="f" level="required" />
+        <RESOURCE name="h" level="required" />
+        <RESOURCE name="n" level="required" />
+        <RESOURCE name="q" level="required" />
+        <RESOURCE name="r" level="required" />
+        <RESOURCE name="c" level="desired" />
+        <RESOURCE name="g" level="desired" />
+        <RESOURCE name="i" level="desired" />
+        <RESOURCE name="j" level="desired" />
+        <RESOURCE name="s" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="9">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="a" level="required" />
+        <RESOURCE name="b" level="required" />
+        <RESOURCE name="j" level="required" />
+        <RESOURCE name="q" level="required" />
+        <RESOURCE name="s" level="required" />
+        <RESOURCE name="g" level="desired" />
+        <RESOURCE name="h" level="desired" />
+        <RESOURCE name="i" level="desired" />
+        <RESOURCE name="l" level="desired" />
+        <RESOURCE name="u" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="10">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="b" level="required" />
+        <RESOURCE name="f" level="required" />
+        <RESOURCE name="p" level="required" />
+        <RESOURCE name="d" level="desired" />
+        <RESOURCE name="h" level="desired" />
+        <RESOURCE name="i" level="desired" />
+        <RESOURCE name="n" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="11">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="b" level="required" />
+        <RESOURCE name="i" level="required" />
+        <RESOURCE name="r" level="required" />
+        <RESOURCE name="a" level="desired" />
+        <RESOURCE name="c" level="desired" />
+        <RESOURCE name="d" level="desired" />
+        <RESOURCE name="s" level="desired" />
+        <RESOURCE name="u" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="12">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="n" level="required" />
+        <RESOURCE name="u" level="required" />
+        <RESOURCE name="c" level="desired" />
+        <RESOURCE name="h" level="desired" />
+        <RESOURCE name="s" level="desired" />
+        <RESOURCE name="t" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="13">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="g" level="required" />
+        <RESOURCE name="q" level="required" />
+        <RESOURCE name="b" level="desired" />
+        <RESOURCE name="e" level="desired" />
+        <RESOURCE name="j" level="desired" />
+        <RESOURCE name="l" level="desired" />
+        <RESOURCE name="n" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="14">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="t" level="required" />
+        <RESOURCE name="u" level="required" />
+        <RESOURCE name="v" level="required" />
+        <RESOURCE name="a" level="desired" />
+        <RESOURCE name="k" level="desired" />
+        <RESOURCE name="q" level="desired" />
+        <RESOURCE name="s" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="15">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="a" level="required" />
+        <RESOURCE name="d" level="required" />
+        <RESOURCE name="f" level="required" />
+        <RESOURCE name="s" level="required" />
+        <RESOURCE name="g" level="desired" />
+        <RESOURCE name="i" level="desired" />
+        <RESOURCE name="k" level="desired" />
+        <RESOURCE name="q" level="desired" />
+        <RESOURCE name="u" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="16">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="a" level="required" />
+        <RESOURCE name="k" level="required" />
+        <RESOURCE name="v" level="required" />
+        <RESOURCE name="f" level="desired" />
+        <RESOURCE name="j" level="desired" />
+        <RESOURCE name="p" level="desired" />
+        <RESOURCE name="t" level="desired" />
+      </RESOURCES>
+    </MEETING>
+  </MEETINGS>
+  <SETTINGS>
+    <SETTING name="noParSess" value="4" />
+    <SETTING name="noSessBlocks" value="4" />
+  </SETTINGS>
+</SCHEDULE_SPECS>

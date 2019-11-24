@@ -1,0 +1,21 @@
+<SCHEDULE_SPECS>
+  <RESOURCES>
+    <RESOURCE name="sfdlkj" type="person" />
+    <RESOURCE name="lkjij" type="person" />
+    <RESOURCE name="ii990" type="person" />
+  </RESOURCES>
+  <MEETINGS>
+    <MEETING topic="hij">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="sfdlkj" level="required" />
+        <RESOURCE name="lkjij" level="desired" />
+      </RESOURCES>
+    </MEETING>
+  </MEETINGS>
+  <SETTINGS>
+    <SETTING name="noParSess" value="1" />
+    <SETTING name="noSessBlocks" value="1" />
+  </SETTINGS>
+</SCHEDULE_SPECS>

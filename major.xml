@@ -1,0 +1,49 @@
+<SCHEDULE_SPECS>
+  <RESOURCES>
+    <RESOURCE name="A" type="person" />
+    <RESOURCE name="B" type="person" />
+    <RESOURCE name="C" type="person" />
+  </RESOURCES>
+  <MEETINGS>
+    <MEETING topic="m11">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="A" level="required" />
+        <RESOURCE name="B" level="required" />
+        <RESOURCE name="C" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="m12">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="A" level="required" />
+        <RESOURCE name="B" level="required" />
+        <RESOURCE name="C" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="m21">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="A" level="required" />
+        <RESOURCE name="B" level="required" />
+        <RESOURCE name="C" level="desired" />
+      </RESOURCES>
+    </MEETING>
+    <MEETING topic="m22">
+      <DESCRIPTION>
+      </DESCRIPTION>
+      <RESOURCES>
+        <RESOURCE name="A" level="required" />
+        <RESOURCE name="B" level="required" />
+        <RESOURCE name="C" level="desired" />
+      </RESOURCES>
+    </MEETING>
+  </MEETINGS>
+  <SETTINGS>
+    <SETTING name="noParSess" value="2" />
+    <SETTING name="noSessBlocks" value="2" />
+  </SETTINGS>
+</SCHEDULE_SPECS>
